@@ -22,7 +22,7 @@
     "update:update": "ncu -u"
   },
   "dependencies": {
-    "@vue-storefront/magento-api": "1.0.0-rc.2",
+    "@vue-storefront/magento-api": "github:zipper-team/storefront-api-client",
     "@vue-storefront/core": "^2.3.4",
     "cookie-universal": "^2.1.5",
     "vue": "^2.6.12",
