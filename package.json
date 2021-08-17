@@ -19,7 +19,8 @@
     "prepublish": "yarn build",
     "test": "jest",
     "update:check": "ncu",
-    "update:update": "ncu -u"
+    "update:update": "ncu -u",
+    "postinstall": "npm run build"
   },
   "dependencies": {
     "@vue-storefront/magento-api": "github:zipper-team/storefront-api-client",
