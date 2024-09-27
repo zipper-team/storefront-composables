@@ -32,7 +32,7 @@
   "devDependencies": {
     "@types/js-cookie": "^2.2.7",
     "@vue/test-utils": "^1.2.2",
-    "rollup": "^2.56.2"
+    "rollup": "^2.79.2"
   },
   "peerDependencies": {
     "@vue/composition-api": "1.0.0-beta.21",
